@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/AcceptanceTests.iml
+/discord.xml
+/material_theme_project_new.xml
+/modules.xml
+/vcs.xml
